@@ -1,0 +1,1 @@
+houses = {"Harry": "Gryf", "Draco": "Sly"}
